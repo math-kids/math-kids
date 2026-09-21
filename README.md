@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Hani 👋
 
-<!--
-**math-kids/math-kids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Web Developer who enjoys building web applications and interactive browser experiences from scratch.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MimiMatematika
+
+An educational web platform designed to make learning mathematics more interactive and enjoyable for children.
+
+🌐 **Live:** https://mimimatematika.com
+
+Built with:
+
+- Astro
+- JavaScript
+- HTML & CSS
+- Responsive Web Design
+- Interactive learning modules
+- Browser-based educational games
+- GitHub & Netlify
+
+## 🎮 What I Build
+
+I enjoy creating:
+
+- Interactive educational web applications
+- Browser-based games
+- Responsive interfaces
+- JavaScript game mechanics
+- Interactive learning experiences
+- Web projects from idea to deployment
+
+## 🛠 Tech
+
+**Astro · JavaScript · HTML · CSS · Git · GitHub · Netlify**
+
+## 📌 Currently
+
+Building and improving MimiMatematika while exploring opportunities to work remotely on web-based projects.
